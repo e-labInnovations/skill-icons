@@ -41,6 +41,7 @@ const shortNames = {
   rxjava: 'reactivex',
   ghactions: 'githubactions',
   gas: 'googleappsscript',
+  sklearn: 'scikitlearn',
 };
 const themedIcons = [
   ...Object.keys(icons)
